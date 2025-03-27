@@ -1,0 +1,6 @@
+@DocECMWebHooksIntegration_HostAddress = http://localhost:5173
+
+GET {{DocECMWebHooksIntegration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
